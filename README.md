@@ -35,3 +35,12 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<div style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://www.linkedin.com/in/javieroliveradev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" height="40">
+  </a> &nbsp;
+  <a href="mailto:TU_CORREO@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
+  </a>
+</div>
+
